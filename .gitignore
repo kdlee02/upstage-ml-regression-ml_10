@@ -1,0 +1,12 @@
+Datas/서울시 건축물대장 표제부.csv
+Datas/train_restore.csv
+Datas/test_restore.csv
+Datas/train.csv
+Datas/test.csv
+Datas/output.csv
+Datas/updated_df(no knn).csv
+Datas/updated_df2(no knn).csv
+Datas/updated_df(knn).csv
+Datas/updated_df2(knn).csv
+Datas/pred_high_mid_low_lgbm.csv
+Datas/pred_high_mid_low.csv
