@@ -105,10 +105,6 @@ e.g.
 
 - 비공식 2등(RMSE : 10847.5206) mid submission때 성능이 낮아서 사용하지 못했으나 실제 성능은 좋아서 아쉬웠음.
    
-### Presentation
-
-- _Insert your presentaion file(pdf) link_
-
 ## etc
 
 
